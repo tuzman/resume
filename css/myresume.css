@@ -1,8 +1,14 @@
-/*
-* MyResume v1.1
-*
-* Afriq Yasin Ramadhan
-*/
+
+@media only screen and (max-width: 480px) {
+    #navigation {
+        display: block !important;
+        margin-top:10px;
+    }
+}
+
+#navigation  {
+    display: none;
+}
 
 body {
   margin: 0;

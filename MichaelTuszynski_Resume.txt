@@ -1,0 +1,106 @@
+﻿Michael Tuszynski
+Experienced, dynamic, adaptable leader.
+San Francisco, CA   (610) 304-7403   www.miketuszynski.info 
+mike@miketuszynski.info 
+I am a sophisticated and skilled strategic team leader and technologist with far-reaching experience in consolidating workflow and automation through software development. I possess a rare combination of technology expertise and problem solving skills.
+I have spent eight years at advertising technology organizations where I have built solutions that automate workflow and gain efficiencies cross-functionally. I lead technology professionals via technical thought-leadership, code review and QA, as well as process overview and enhancement.
+I possess deep knowledge and understanding of the advertising technology landscape. My work history and experience allows me to span across both the technology and business worlds in the development of cutting edge solutions.
+Work Experience.
+Fandor, San Francisco, CA
+Director of Software Development
+December 2014 - present
+* Develop strategy for growing a pre-IPO startup engineering team
+* Lead agile team of 5 developers building a world-class video streaming and management platform
+* Develop and manage hiring process for engineers
+* Manage engineering team budget
+* Help to foster a collaborative and cooperative culture of top-tier engineers
+PointRoll Inc., San Francisco, CA
+Manager, Product Improvement Engineering
+November 2013 - December 2014
+* Served as subject matter expert in all aspects of ad serving for west coast sales and operations
+* Lead research and development initiatives for innovation-focused group
+* Managed team of application and reporting solutions engineers
+* Responsible for case management of top-tier ad issue escalations
+* Designed and build Proof-of-Concept for server-side ad targeting solution
+* Participated in IAB working groups on video and cookie-less tracking initiatives
+
+
+
+
+
+
+
+
+
+
+
+Flashtalking Inc., San Francisco, CA
+US Director of Technology
+January 2012 - October 2013
+* Led combined team of creative developers, technical implementation engineers, and web services engineers
+* Planned, developed and implemented Atlassian JIRA on-demand SaaS for workflow and case management across both US, UK and DE offices
+* Responsible for complex technical campaign executions
+* Led certification efforts for Flashtalking's entrance into the Network Advertising Initiative, focusing on privacy and compliance issues
+* Prioritized, developed and implemented live campaign issues
+* Implemented version control (Git) for UK development team
+* Served as a subject matter expert in all aspects of ad serving environment
+* Coordinated / supported all IT initiatives in San Francisco office
+
+Tubemogul Inc., Emeryville, CA
+Director Ad Development
+April 2011 - December 2011
+* Led small group of highly motivated engineers on various aspects of ad unit development and UI design
+* Launched first version of expandable video ad product
+* Refactored Mobile Video Ad Units using open video platform
+* Redesigned & Refactored Core Video Ad Unit Product
+* Refactored and launched company’s VPAID compliant Interactive Preroll unit
+* Designed and managed company’s first ad unit test framework using Selenium / PyUnit
+
+PointRoll Inc., Conshohocken, PA
+Director, Technical Services
+June 2006 - March 2011
+* Built and directed four independent development teams to support industry-leading rich media ad server platform
+* Directed cross-functional teams hands-on daily
+* Led team of web services engineers supporting custom functionality for rich media executions
+* Marshaled staff resources in daily operation of client-side issue resolution
+* Collaborated cross-functionally with operational groups including production engineers, creative designers, product managers, account managers, and executive management on technical practices and procedures
+* Mentored engineers in best practices for client and server-side development
+* Served as a communication liaison between business/operational groups and engineering practice
+* Designed and implemented front-end technology training for internal staff members
+* Interfaced with advertising agencies and web publishing clients ensuring swift resolution to ad issues
+* Served as a subject matter expert in all aspects of ad serving environment
+
+Gartmore Global Investments, Conshohocken, PA
+Web Developer
+April 2004 - May 2006
+* Developed and managed eight production web sites and managed incoming data feeds for GGI's financial platform
+* Redesigned content management system for external web sites of company
+* Successfully developed and maintained data feed automation software package for incoming financial data feeds
+
+Towers Watson, Philadelphia, PA
+Systems Monitoring Team Lead
+June 2001 - March 2004
+* Developed and Managed production monitoring for hundreds of benefits enrollment web sites
+* Successfully implemented infrastructure and network monitoring for Windows and UNIX based servers in enterprise production environment
+* Successfully implemented test suite for web based application level monitoring on production web application
+
+Expertise.
+* JavaScript 
+* Git 
+* Bash 
+* CSS/SASS/LESS 
+* Frameworks: Angular.js, Ember.js, Meteor, jQuery
+* PHP 
+* Perl 
+* MySQL 
+* Ruby 
+* Rails 
+* Python / Django 
+* Java
+Education
+Saint Joseph’s University, Philadelphia PA. BS, Management and Information Systems, September 2001
+
+
+
+
+San Francisco, CA   (610) 304-7403  www.miketuszynski.info   mike@miketuszynski.info
