@@ -9,11 +9,18 @@ Work Experience.
 Fandor, San Francisco, CA
 Director of Software Development
 December 2014 - present
-* Develop strategy for growing a pre-IPO startup engineering team
-* Lead agile team of 5 developers building a world-class video streaming and management platform
-* Develop and manage hiring process for engineers
+* Responsible for executing strategy to help grow firm's top KPIs through rapid software engineering
+* Lead agile team of 8 developers building a world-class video streaming and management platform
+* Develop strategy for growing a pre-IPO startup engineering organization
+* Expanded engineering team to firm's first remote office in Sacramento, CA
+* Develop and manage recruitment and hiring process for engineers
 * Manage engineering team budget
 * Help to foster a collaborative and cooperative culture of top-tier engineers
+* Responsible for all software releases and code quality
+* Architected development workflow for maximum agility while maintaining code quality
+* Performance tuning and analysis of web application
+* Developed mobile strategy for company's iOS and Android stacks
+* Transitioned software stack to a service-oriented architecture
 PointRoll Inc., San Francisco, CA
 Manager, Product Improvement Engineering
 November 2013 - December 2014
@@ -23,17 +30,6 @@ November 2013 - December 2014
 * Responsible for case management of top-tier ad issue escalations
 * Designed and build Proof-of-Concept for server-side ad targeting solution
 * Participated in IAB working groups on video and cookie-less tracking initiatives
-
-
-
-
-
-
-
-
-
-
-
 Flashtalking Inc., San Francisco, CA
 US Director of Technology
 January 2012 - October 2013
@@ -85,18 +81,18 @@ June 2001 - March 2004
 * Successfully implemented test suite for web based application level monitoring on production web application
 
 Expertise.
-* JavaScript 
+* JavaScript
+* Full stack Ruby on Rails
 * Git 
 * Bash 
 * CSS/SASS/LESS 
-* Frameworks: Angular.js, Ember.js, Meteor, jQuery
+* Frameworks: Angular.js, Meteor.js, jQuery, React
 * PHP 
-* Perl 
+* AWS 
 * MySQL 
-* Ruby 
-* Rails 
-* Python / Django 
+* RubyMotion
 * Java
+
 Education
 Saint Joseph’s University, Philadelphia PA. BS, Management and Information Systems, September 2001
 
