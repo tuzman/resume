@@ -1,7 +1,13 @@
 BEGIN:VCARD
-N:Tuszynski;Michael;;;
-ADR;DOM;PARCEL;HOME:;;1455 Jefferson St;San Francisco;CA;94123;USA
-EMAIL;INTERNET:mike@miketuszynski.info
-TEL;CELL:(610) 304-7403
-URL:www.miketuszynski.info
+VERSION:3.0
+FN;CHARSET=UTF-8:Michael P Tuszynski
+N;CHARSET=UTF-8:Tuszynski;Michael;P;;
+GENDER:M
+BDAY:19790430
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:miketuszynski42@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:miketuszynski42@gmail.com
+TEL;TYPE=CELL:(415) 598-8333
+ADR;CHARSET=UTF-8;TYPE=HOME:;;1455 Jefferson St;San Francisco;California;94123;United States
+URL;CHARSET=UTF-8:https://www.miketuszynski.com
+REV:2020-02-13T23:27:49.525Z
 END:VCARD
